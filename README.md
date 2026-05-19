@@ -57,6 +57,16 @@ I'm an AI Software Engineer building intelligent systems that combine **multi-ag
 
 ---
 
+## 🏅 Certifications
+
+<a href="https://www.credly.com/badges/38a3c9e2-7549-40fe-8b2c-5a901637c69d/public_url" target="_blank">
+  <img src="https://images.credly.com/images/0e717fa5-93a1-4203-964c-051b4734b7eb/linkedin_thumb_blob" width="120" alt="HashiCorp Certified: Terraform Associate (004)"/>
+</a>
+
+**HashiCorp Certified: Terraform Associate (004)** — HashiCorp
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📈 Arca *(Private Repository)*
