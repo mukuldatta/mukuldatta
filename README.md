@@ -88,10 +88,7 @@ End-to-end ML pipeline on 284k transactions (0.17% fraud rate). Demonstrates uns
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukuldatta&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuldatta&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+![](https://streak-stats.demolab.com?user=mukuldatta&theme=tokyonight&hide_border=true)
 
 ---
 
