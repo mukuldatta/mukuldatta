@@ -10,9 +10,6 @@
   </a>
   <a href="mailto:mukulmokkapati@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Alpharetta%2C%20GA-4CAF50?style=for-the-badge"/>
-</p>
 
 ---
 
