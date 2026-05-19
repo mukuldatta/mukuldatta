@@ -95,7 +95,7 @@ End-to-end ML pipeline on 284k transactions (0.17% fraud rate). Demonstrates uns
 ## 🎓 Education
 
 - 🎓 **M.S. Data Science** — University of Maryland, Baltimore County (UMBC)
-- 🎓 **B.Tech Information Technology** — JNTU
+- 🎓 **B.Tech Computer Science and Engineering** — JNTU
 
 ---
 
